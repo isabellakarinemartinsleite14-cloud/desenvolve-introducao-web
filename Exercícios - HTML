@@ -1,0 +1,43 @@
+1. Descreva, com suas palavras, a função das tags, corpo, e atributos de um elemento HTML.
+
+2. O que é um elemento vazio? Qual a sua funcionalidade? Cite pelo menos dois exemplos de elementos HTML com essa característica.
+
+3. Prática. Abra o editor de texto e crie um documento html com o código abaixo. Em seguida, abra-o no navegador e veja o que acontece!
+<h1>Bem vindo</h1>
+<p>
+Seja bem vindo a essa página, terráqueo. Tenho uma <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">surpresa</a> pra vc.
+</p>
+1. Função de tags, corpo e atributos de um elemento HTML
+ Tags: São marcadores usados para indicar o início (⁠<tag>⁠) e o fim (⁠</tag>⁠) de um elemento HTML.  
+ Corpo (Conteúdo): É a informação contida entre a tag de abertura e a tag de fecho, ou seja, o texto, imagem ou outro elemento visível na página.
+ Atributos: Fornecem informações/configurações adicionais sobre o elemento (como links em ⁠href="..."⁠ ou caminhos de imagens em ⁠src="..."⁠), inseridos sempre na tag de abertura.
+2. Elemento vazio, funcionalidade e dois exemplos
+ O que é: Um elemento vazio (ou self-closing tag) é aquele que não possui conteúdo (corpo) nem tag de fecho.  
+ Funcionalidade: Serve para inserir um recurso ou ação simples na página sem precisar envolver um texto/conteúdo.
+ Exemplos:
+1. ⁠<br>⁠ (usado para quebrar linhas)
+2. ⁠<img>⁠ (usado para inserir imagens)
+(Outros exemplos válidos: ⁠<hr>⁠, ⁠<input>⁠, ⁠<meta>⁠)
+1. Função de tags, corpo e atributos de um elemento HTML
+ Tags: São marcadores usados para indicar o início (⁠<tag>⁠) e o fim (⁠</tag>⁠) de um elemento HTML.  
+ Corpo (Conteúdo): É a informação contida entre a tag de abertura e a tag de fecho, ou seja, o texto, imagem ou outro elemento visível na página.
+ Atributos: Fornecem informações/configurações adicionais sobre o elemento (como links em ⁠href="..."⁠ ou caminhos de imagens em ⁠src="..."⁠), inseridos sempre na tag de abertura.
+2. Elemento vazio, funcionalidade e dois exemplos
+ O que é: Um elemento vazio (ou self-closing tag) é aquele que não possui conteúdo (corpo) nem tag de fecho.  
+ Funcionalidade: Serve para inserir um recurso ou ação simples na página sem precisar envolver um texto/conteúdo.
+ Exemplos:
+1. ⁠<br>⁠ (usado para quebrar linhas)
+2. ⁠<img>⁠ (usado para inserir imagens)
+(Outros exemplos válidos: ⁠<hr>⁠, ⁠<input>⁠, ⁠<meta>⁠)
+
+a. Quais elementos são os vizinhos de ⁠<main>⁠?  
+ Resposta: ⁠<header>⁠ e ⁠<footer>⁠. (Estão no mesmo nível hierárquico dentro de ⁠<body>⁠).  
+ b. Quais elementos são os ancestrais de ⁠<ul>⁠?  
+ Resposta: ⁠<nav>⁠, ⁠<header>⁠, ⁠<body>⁠ e ⁠<html>⁠. (São todos os elementos pai/avô que contêm a tag ⁠<ul>⁠).  
+ c. Quais elementos são filhos de ⁠<header>⁠?  
+ Resposta: ⁠<h1>⁠ e ⁠<nav>⁠. (Estão diretamente dentro de ⁠<header>⁠).  
+ d. Qual o nível de profundidade do aninhamento entre ⁠<html>⁠ e ⁠<strong>⁠ do primeiro artigo?  
+ Caminho da hierarquia:
+⁠<html>⁠ \bm{\rightarrow} ⁠<body>⁠ \bm{\rightarrow} ⁠<main>⁠ \bm{\rightarrow} ⁠<article>⁠ \bm{\rightarrow} ⁠<p>⁠ \bm{\rightarrow} ⁠<strong>⁠  
+ Resposta: O nível de profundidade é 5 (ou seja, ⁠<strong>⁠ está aninhado a 5 níveis abaixo da tag ⁠<html>⁠).
+
