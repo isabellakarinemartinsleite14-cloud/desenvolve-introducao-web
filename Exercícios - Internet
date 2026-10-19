@@ -1,0 +1,32 @@
+Questão 1: Descreva o papel de uma máquina que é cliente e de uma máquina que é servidor na Internet.
+ Cliente: É o dispositivo (computador, smartphone, tablet) utilizado pelo utilizador para solicitar informações ou serviços.
+Exemplo: o seu navegador web envia um pedido para abrir uma página.
+
+ Servidor: É uma máquina de alto desempenho que armazena dados, ficheiros ou sites e "serve" (responde a) esses pedidosenviados pelos
+clientes através da rede.
+
+Questão 2: O que são domínios e por que eles são importantes?
+ O que são: Domínios são os nomes amigáveis utilizados para identificar sites na Internet (exemplo: ⁠google.com⁠).
+
+ Importância: Os computadores comunicam entre si através de endereços numéricos chamados endereços IP (como ⁠142.250.190.46⁠). 
+Os domínios são importantes porque facilitam a memorização por parte dos humanos, evitando que tenhamos de memorizar sequências numéricas
+complexas para aceder aos sites.
+
+Microsoft Windows [versão 10.0.26200.9457]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\PDITA842> ping www.google.com
+
+Disparando www.google.com [142.251.151.119] com 32 bytes de dados:
+Resposta de 142.251.151.119: bytes=32 tempo=17ms TTL=114
+Resposta de 142.251.151.119: bytes=32 tempo=14ms TTL=114
+Resposta de 142.251.151.119: bytes=32 tempo=14ms TTL=114
+Resposta de 142.251.151.119: bytes=32 tempo=15ms TTL=114
+
+Estatísticas do Ping para 142.251.151.119:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 14ms, Máximo = 17ms, Média = 15ms
+
+C:\Users\PDITA842>
