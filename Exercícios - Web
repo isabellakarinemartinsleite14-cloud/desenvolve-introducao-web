@@ -1,0 +1,13 @@
+análise na URL
+Protocolo: https
+Domínio: www.nytimes.com
+Caminho: /2023/08/28/science/birds-flycatcher-migration.html
+Parâmetro: não possui parâmetro nesta URL.
+
+2. Descreva qual é o propósito de cada uma das tecnologias consideradas o “tripé da web”.
+
+HTML (Estrutura): Define a estrutura e o conteúdo da página web (textos, imagens, links, formulários).
+
+CSS (Estilo): Define o aspeto visual e a formatação do conteúdo (cores, fontes, espaçamentos, layout).
+
+JavaScript (Comportamento): Fornece interatividade e dinamicidade à página (animações, reações a cliques, comunicação com servidores em segundo plano).
